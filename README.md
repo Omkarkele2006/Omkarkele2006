@@ -10,14 +10,6 @@ I believe the best way to learn is by building things, making mistakes, improvin
 
 ## What I'm Currently Working On
 
-### SciSleuth
-
-An AI-powered misconception detection platform that helps identify conceptual misunderstandings in Newton's Laws and provides personalized learning pathways.
-
-### NIYAM-AI
-
-A research-oriented project exploring intent-bound AI agents with cryptographically verifiable guardrails.
-
 ### Learning
 
 Currently spending most of my time improving my understanding of software engineering, system design, full-stack development, and modern AI applications.
@@ -41,26 +33,6 @@ Node.js, Express.js, PostgreSQL, MongoDB
 ### Tools
 
 Git, GitHub, VS Code
-
----
-
-## Selected Work
-
-### SciSleuth
-
-An AI-powered system that focuses on identifying why a student answered incorrectly rather than simply marking answers as right or wrong.
-
-### NIYAM-AI
-
-A project focused on building safer AI systems through intent-bound actions and verifiable constraints.
-
-### Kalpa Power
-
-A document control and workflow management platform designed for solar infrastructure projects.
-
-### Cache-Oblivious Search
-
-An implementation and study of cache-efficient search structures and memory-aware algorithm design.
 
 ---
 
